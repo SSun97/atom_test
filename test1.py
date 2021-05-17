@@ -7,3 +7,4 @@ class Base(object):
 
 a = Base()
 print(a)
+print(type(a))
