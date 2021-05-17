@@ -8,3 +8,4 @@ class Base(object):
 a = Base()
 print(a)
 print(type(a))
+print(2+3)
