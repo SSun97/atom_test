@@ -6,6 +6,10 @@ class Base(object):
         self.id = id
 
 a = Base()
+b = Base()
 print(a)
+print(b)
 print(type(a))
 print(2+3)
+print(3+4)
+###########
